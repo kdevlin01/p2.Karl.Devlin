@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: fit-content;
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  display: block;
+}
+.sketch-parent{
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+.sketch-child{
+  position: absolute;
+  margin-top: 0px;
+}
+.newsFeed{
+  position: relative;
+  width: 400px;
+  height: 500px;
+  overflow-y: scroll;
+  margin-top: 80px;
+  margin-left:  1200px;
+  font-size: 28px;
+}
+.weather{
+  margin-left: 100px;
+  position: 700;
+  height: 105px;
+}
+.weatherwidget-io{
+  position: relative;
+  height: fit-content;
+}
+
+
