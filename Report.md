@@ -30,6 +30,6 @@ Repo for project 2 of Human Comp. Interactions
 ## Part A
 * Implement one of the advanced features. Provide your github report page and 2-minute presentation video. Please pay attention on the overal design and layout, and usability of your final interface.
   * Implemented the ability to act as a light source with different possible colors (red, orange, yellow, green, blue-green, blue, pink, and purple). Upon clicking the lightbulb button the color of the background cycles through the various colors.
-  * Link to presentation video.
+  * Link to presentation video: https://youtu.be/2WjUkd1dxOY
 * GIF of Final Interface
 <img src='Project2/Assets/p2.Karl.Devlin.gif' title='GIF Walkthrough' width='300' alt='Video Walkthrough' />
