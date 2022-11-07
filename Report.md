@@ -32,4 +32,4 @@ Repo for project 2 of Human Comp. Interactions
   * Implemented the ability to act as a light source with different possible colors (red, orange, yellow, green, blue-green, blue, pink, and purple). Upon clicking the lightbulb button the color of the background cycles through the various colors.
   * Link to presentation video: https://youtu.be/2WjUkd1dxOY
 * GIF of Final Interface
-<img src='Project2/Assets/p2.Karl.Devlin.gif' title='GIF Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='Project2/Assets/p2.Karl.Devlin.gif' title='GIF Walkthrough' width='600' alt='Video Walkthrough' />
